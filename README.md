@@ -1,6 +1,6 @@
 # HOSTED
 
-Link:-  https://charanreddy404-contact-list.netlify.app/
+Link:- https://anil-master.github.io/Project_Contacts_List.github.io/
 
 
 # Getting Started with Create React App
